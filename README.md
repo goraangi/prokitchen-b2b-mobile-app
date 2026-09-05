@@ -176,7 +176,7 @@ Screenshots are provided for demonstration purposes only.
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/app-home.jpeg)
+![Home Screen](screenshot/app-home.jpeg)
 
 ### 🛍️ Product Listing
 
