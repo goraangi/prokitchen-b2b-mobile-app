@@ -176,19 +176,19 @@ Screenshots are provided for demonstration purposes only.
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/app-home.png)
+![Home Screen](screenshots/app-home.jpeg)
 
 ### 🛍️ Product Listing
 
-![Product Listing](screenshot/product-list.png)
+![Product Listing](screenshot/product-list.jpeg)
 
 ### 📝 Custom Request
 
-![Custom Request](screenshot/custom-request.png)
+![Custom Request](screenshot/custom-request.jpeg)
 
 ### 📊 Admin Dashboard
 
-![Admin Dashboard](screenshot/admin-dashboard.png)
+![Admin Dashboard](screenshot/admin-dashboard.jpeg)
 
 ---
 
